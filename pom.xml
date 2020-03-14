@@ -232,7 +232,7 @@
                         </dependencies>
                         <configuration>
                             <configLocation>custom-checkstyle.xml</configLocation>
-                        <</configuration>
+                        </configuration>
                     </plugin>
 
                     <!-- PMD -->
